@@ -1,0 +1,10 @@
+emp no,emp_name,Dept_name,Salary
+1,Adam,IT,1000
+1,Adam,IT,1000
+2,Peter,,4000
+3,Chris,Finance,1000
+3,Chris,Finance,1000
+4,Alan,IT,4000
+5,Mayank,HR,4000
+6,Rakesh,Sales,4000
+7,Mathew,Finance,4000
