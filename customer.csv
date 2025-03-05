@@ -1,0 +1,15 @@
+Customer_id,Name,Age,Email,Start_date,End_date,Country
+1,Alice,,Alice@example.com,01-01-2022,10-01-2022,USA
+2,Bob,,Bob@example.com,02-01-2022,11-01-2022,UK
+3,Charlie,,Charlie@example.com,03-01-2022,12-01-2022,Canada
+4,Dave,,Dave@example.com,04-01-2022,13-01-2022,India
+5,Eve,,Eve@example.com,05-01-2022,14-01-2022,Germany
+6,Frank,,Frank@example.com,06-01-2022,15-01-2022,USA
+7,Alice,,Alice@example.com,07-01-2022,16-01-2022,USA
+8,Bob,,Bob@example.com,08-01-2022,17-01-2022,Australia
+9,Charlie,,Charlie@example.com,09-01-2022,18-01-2022,UK
+10,Dave,,Dave@example.com,10-01-2022,19-01-2022,Canada
+11,Eve,,Eve@example.com,11-01-2022,20-01-2022,India
+12,Frank,,Frank@example.com,12-01-2022,21-01-2022,Italy
+13,Alice,,Alice@example.com,13-01-2022,22-01-2022,Pak
+14,Bob,,Bob@example.com,14-01-2022,23-01-2022,Germany
